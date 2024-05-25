@@ -5,3 +5,5 @@ The training dataset is collected from Chatbot Arena, in which users chat with t
 This challenge aligns with the concept of "reward models" or "preference models" in reinforcement learning from human feedback (RLHF). 
 Previous research has identified limitations in directly prompting an existing LLM for preference predictions. 
 These limitations often stem from biases such as position bias, verbosity bias, or self-enhancement bias.
+Creating a novel model that is able to select the "correct LLM response" with limited inherent prejudice has the potential to revolutionize LLMs,
+and their application in day-to-day life.
