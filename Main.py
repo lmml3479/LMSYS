@@ -13,4 +13,4 @@ from sklearn.metrics import accuracy_score, classification_report, confusion_mat
 train_data = pd.read_csv('/kaggle/input/titanic/train.csv')
 test_data = pd.read_csv('/kaggle/input/titanic/test.csv')
 print(train_data.head())
-#Printing the first five lines of the data shows that it consists of information of survival, sex, ticket, age, cabin, fare, etc.
+#Printing the first five lines of the data shows that it consists of information of survival, sex, age, cabin, fare, etc.
